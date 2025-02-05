@@ -1,18 +1,15 @@
 cff-version: 1.0.0
-
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Li"
-  given-names: "Xu"
-- family-names: "Mo"
-  given-names: "Di"
-  - family-names: "Deng"
-  given-names: "Shanjing"
-- family-names: "Jiang"
-  given-names: "Xianyang"
-title: "Histogram-Guided Adaptive Fusion of Bright and Dark Channel Priors for Single Image Dehazing"
-
-doi: 10.5281/zenodo.14809404
-url: "https://github.com/21ShH/HAHCP.git"
-journal: "The Visual Computer"
-year: "2025"
+  type: article
+  authors:
+    - family-names: "Li"
+    given-names: "Xu"
+  - family-names: "Mo"
+    given-names: "Di"
+    - family-names: "Deng"
+    given-names: "Shanjing"
+  - family-names: "Jiang"
+    given-names: "Xianyang"
+  doi: 10.5281/zenodo.14809404
+  journal: "The Visual Computer"
+  title: "Histogram-Guided Adaptive Fusion of Bright and Dark Channel Priors for Single Image Dehazing"
+  year: 2025
