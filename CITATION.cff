@@ -1,7 +1,5 @@
-cff-version: 1.0.0
-  type: article
-  authors:
-    - family-names: "Li"
+authors:
+  - family-names: "Li"
     given-names: "Xu"
   - family-names: "Mo"
     given-names: "Di"
@@ -9,7 +7,8 @@ cff-version: 1.0.0
     given-names: "Shanjing"
   - family-names: "Jiang"
     given-names: "Xianyang"
-  doi: 10.5281/zenodo.14809404
-  journal: "The Visual Computer"
-  title: "Histogram-Guided Adaptive Fusion of Bright and Dark Channel Priors for Single Image Dehazing"
-  year: 2025
+title: "Histogram-Guided Adaptive Fusion of Bright and Dark Channel Priors for Single Image Dehazing"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+url: "https://github.com/21ShH/HAHCP.git" 
+journal: "The Visual Computer"
