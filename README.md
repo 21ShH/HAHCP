@@ -37,6 +37,8 @@ Authors: Li X, Mo D, Deng Shanjing, Jiang XY
 
 #### The flowchart of the algorithm and the specific steps are shown in the figure below.
 
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+![image](https://github.com/21ShH/HAHCP/blob/main/FLOWCHART.png)
+
+![image](https://github.com/21ShH/HAHCP/blob/main/Algorithm%20Procedure.png)
 
 
