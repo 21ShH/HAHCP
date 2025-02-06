@@ -2,32 +2,47 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
+- family-names: "Li"
+  given-names: "Xu"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
+- family-names: "Di"
+  given-names: "Mo"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "My Research Software"
+- family-names: "Deng"
+  given-names: "Shanjing"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Jiang"
+  given-names: "Xianyang"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Histogram-Guided Adaptive Fusion of Bright and Dark Channel Priors for Single Image Dehazing"
 version: 2.0.4
-doi: 10.5281/zenodo.1234
+doi: 10.5281/zenodo.14809404
 date-released: 2017-12-18
-url: "https://github.com/github-linguist/linguist"
+url: "https://github.com/21ShH/HAHCP.git"
 preferred-citation:
   type: article
   authors:
-  - family-names: "Lisa"
-    given-names: "Mona"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: "Bot"
-    given-names: "Hew"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  doi: "10.0000/00000"
-  journal: "Journal Title"
-  month: 9
+  - family-names: "Li"
+  given-names: "Xu"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Di"
+  given-names: "Mo"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Deng"
+  given-names: "Shanjing"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Jiang"
+  given-names: "Xianyang"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.5281/zenodo.14809404"
+  journal: "The Visual Computer"
+  month: 2
   start: 1 # First page number
-  end: 10 # Last page number
-  title: "My awesome research software"
+  end: 12 # Last page number
+  title: "Histogram-Guided Adaptive Fusion of Bright and Dark Channel Priors for Single Image Dehazing"
   issue: 1
   volume: 1
-  year: 2021
+  year: 2025
+cff-version: 1.0.0
+message: "If you like it, please cite it as below."
+
