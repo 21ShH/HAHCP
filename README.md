@@ -35,4 +35,8 @@ Authors: Li X, Mo D, Deng Shanjing, Jiang XY
  
 - `HAHCP.m` implements the main algorithmic computations.
 
+#### The flowchart of the algorithm and the specific steps are shown in the figure below.
+
+![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+
 
