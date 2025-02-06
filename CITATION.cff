@@ -1,6 +1,5 @@
-
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you like it, please cite it as below."
 authors:
 - family-names: "Li"
   given-names: "Xu"
@@ -15,25 +14,25 @@ authors:
   given-names: "Xianyang"
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Histogram-Guided Adaptive Fusion of Bright and Dark Channel Priors for Single Image Dehazing"
-version: 2.0.4
+version: 1.0.0
 doi: 10.5281/zenodo.14809404
-date-released: 2017-12-18
+date-released: 2025-02-01
 url: "https://github.com/21ShH/HAHCP.git"
 preferred-citation:
   type: article
   authors:
   - family-names: "Li"
-  given-names: "Xu"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Di"
-  given-names: "Mo"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Deng"
-  given-names: "Shanjing"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Jiang"
-  given-names: "Xianyang"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+    given-names: "Xu"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Mo"
+    given-names: "Di"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Deng"
+    given-names: "Shanjing"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Jiang"
+    given-names: "Xianyang"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
   doi: "10.5281/zenodo.14809404"
   journal: "The Visual Computer"
   month: 2
@@ -43,6 +42,3 @@ preferred-citation:
   issue: 1
   volume: 1
   year: 2025
-cff-version: 1.0.0
-message: "If you like it, please cite it as below."
-
