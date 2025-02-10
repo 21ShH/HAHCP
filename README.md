@@ -28,6 +28,10 @@ Authors: Li X, Mo D, Deng Shanjing, Jiang XY
   
 ### HAHCP
 
+#### The HAHCP algorithm is based on Dr. He's DCP. （Kaiming He, Jian Sun and Xiaoou Tang, "Single image haze removal using dark channel prior," 2009 IEEE Conference on Computer Vision and Pattern Recognition, Miami, FL, USA, 2009, pp. 1956-1963, doi: 10.1109/CVPR.2009.5206515.）
+
+ For the related theory of the algorithm, please refer to: https://ieeexplore.ieee.org/document/5206515.
+
 #### To make the operation more intuitive, we have divided the algorithm into two separate parts `hist.m` and `HAHCP.m`, but they can also be integrated into a single program. 
 
 
